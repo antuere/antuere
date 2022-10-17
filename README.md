@@ -1,7 +1,16 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100"/>
+</div>
 
-<!--
-**antuere/antuere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<div id="badges" align="center">
+  <a href="https://t.me/antuere">
+   <img src="https://img.shields.io/badge/Telergam-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telergam Badge"/>
+  </a>
+  <a href="https://rostov.hh.ru/resume/580e4db8ff0b5d83f00039ed1f58534e513653">
+  <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=Hack Club&logoColor=white" alt="HeadHunter Badge"/>
+  </a>
+</div>
 
 Here are some ideas to get you started:
 
