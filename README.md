@@ -12,7 +12,9 @@
   </a>
 </div>
 
-Here are some ideas to get you started:
+---
+### :desktop_computer: My projects :
+- I am a Android Developer from Russia.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
