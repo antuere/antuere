@@ -45,7 +45,7 @@
 
  <h3>
    <a href="https://github.com/antuere/MusicApp"/>
-  :musical_note: Schedule player
+  :musical_note: Scheduled player
   </h3>
   <h4>An application for running music on a schedule</h4>
   
