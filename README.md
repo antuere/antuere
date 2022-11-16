@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="100"/>
-  <h2>Hi there, I'm Anton
+  <h2>Hi there
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="28"/></h2>
 </div>
 
