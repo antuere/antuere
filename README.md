@@ -61,8 +61,5 @@
 
 ---
 
-<div id="love" align = "center">
- <img src="https://img.shields.io/badge/Developing with love-red?style=for-the-badge&logo=GitHub Sponsors&logoColor=white"/>
-</div>
 
 
