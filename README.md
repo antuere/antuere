@@ -52,11 +52,6 @@
 <h4/>
   
 ---
-<h3  align="center">:sparkles: My stats </h3>
-<div id="stats" align="center">
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=antuere&border_radius=45)](https://git.io/streak-stats)
-
 </div>
 
 
