@@ -49,11 +49,5 @@
   </h3>
   <h4>An application for running music on a schedule</h4>
   
-<h4/>
-  
 ---
 </div>
-
-
-
-
