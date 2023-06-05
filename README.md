@@ -22,13 +22,15 @@
 <div id="tools">
  <img src="https://img.shields.io/badge/Kotlin-8A2BE2?style=for-the-badge&logo=Kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Java-FF8C00?style=for-the-badge&logo=Java&logoColor=white"/>
- <img src= "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jetpack Compose-blue?style=for-the-badge&logo=Jetpack compose&logoColor=white"/>
  <img src="https://img.shields.io/badge/Android Studio-green?style=for-the-badge&logo=Android studio&logoColor=white"/>
- <img src="https://img.shields.io/badge/Room-778899?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
- <img src="https://img.shields.io/badge/Retrofit-778899?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
- <img src="https://img.shields.io/badge/Hilt-778899?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
- <img src="https://img.shields.io/badge/Glide-778899?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
- <img src="https://img.shields.io/badge/ExoPlayer-778899?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Coroutines-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Room-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Retrofit-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Hilt-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Glide-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/ExoPlayer-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
+ <img src="https://img.shields.io/badge/DataStore-3D7B7B?style=for-the-badge&logo=Conventional Commits&logoColor=white"/>
 </div>
 
 
